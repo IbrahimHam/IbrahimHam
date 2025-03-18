@@ -5,7 +5,7 @@ Hi there! I'm Ibrahim Hammoud, a passionate and experienced Full Stack Developer
 🌟 About Me
 
 - 🌍 Based in Berlin, Germany
-- 🎓 Recent graduate from WBS Coding School, specializing in Node.js and cloud technologies
+- 🎓 Recent started exploring data science and AI building a bridge between software development and data science.
 - 👨‍💻 Former Full Stack Developer at Teelaunch, where I contributed to impactful projects like API development, database optimization, and user interface enhancements
 - 🌱 Currently exploring cloud architecture and advancing my skills in modern frameworks
 
