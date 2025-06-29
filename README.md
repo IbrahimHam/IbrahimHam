@@ -4,31 +4,34 @@ Hi there! I'm Ibrahim Hammoud, a passionate and experienced Full Stack Developer
 
 🌟 About Me
 
-- 🌍 Based in Berlin, Germany
-- 🎓 Recent started exploring data science and AI building a bridge between software development and data science.
-- 👨‍💻 Former Full Stack Developer at Teelaunch, where I contributed to impactful projects like API development, database optimization, and user interface enhancements
-- 🌱 Currently exploring cloud architecture and advancing my skills in modern frameworks
-
+- 🌍 Berlin-based developer with a strong foundation in full stack web development and expanding expertise in AI & machine learning
+- 🤖 Recently completed immersive Data Science & AI training, working on projects involving large language models, retrieval-augmented generation (RAG), and emotion-aware dialogue systems
+- 💻 Former Full Stack Developer at Teelaunch, where I designed APIs, optimized databases, and built interactive front-end experiences with React
+- 🚀 Currently building AI-powered applications using modern tools like LangChain, FAISS, HuggingFace, and GenAI APIs
 
 💼 Experience Highlights
 
-- API Development: Designed and implemented scalable APIs using PHP (Laravel) and documented them with Swagger
-- Frontend Expertise: Built interactive UIs with React.js, refactoring and optimizing codebases for performance and scalability
-- Database Management: Improved query performance and ensured data integrity using MySQL
-- E-commerce Solutions: Enhanced Shopify fulfillment capabilities and developed an order importer for bulk CSV handling
-- Cross-Platform Applications: Worked on ASP.NET, Flask, and desktop applications with C#
+- Developed scalable RESTful APIs with PHP (Laravel) and Node.js, documented with Swagger
+- Built dynamic front-end applications with React, Tailwind CSS, and optimized code for maintainability
+- Integrated AI models and built emotion/sarcasm detection for conversational chatbots
+- Worked on full-stack projects combining React, Node.js, MongoDB, and cloud deployment
+- Experienced with database design and optimization (PostgreSQL, MySQL, MongoDB)
+- Delivered AI-powered job platforms and scene-aware chatbot projects
 
 🛠️ Technical Skills
 
-- Frontend: HTML5, CSS3, JavaScript, React.js, Tailwind CSS, Bootstrap
-- Backend: Node.js, Express.js, PHP (Laravel), Flask, C# (ASP.NET Core)
-- Databases: PostgreSQL, MySQL, MongoDB
-- Tools: Git, Docker, Trello, Jira, Figma
+- Frontend: React.js, JavaScript, Tailwind CSS, Bootstrap, MUI
+- Backend: Node.js, Express, PHP (Laravel), Python (Flask), C# (ASP.NET Core)
+- Databases: PostgreSQL, MySQL, MongoDB, FAISS (Vector Search)
+- AI & ML Tools: LangChain, HuggingFace Transformers, TensorFlow/Keras, MLflow
+- Dev Tools: Git, Docker, FastAPI, Render, Swagger
 
-🌐 Let's Connect: https://www.linkedin.com/in/ibrahim-hammoud
+🌐 Let's Connect:
+- https://www.linkedin.com/in/ibrahim-hammoud
+- dev.ibrahimhammoud@gmail.com
 
 ⚡ Fun Fact
-I’m passionate about continuously improving my skills and finding creative solutions to challenges. Outside of coding, I enjoy delving into problem-solving puzzles and brainstorming innovative ideas to make technology more impactful.
+I’m passionate about continuously improving my skills and finding creative solutions to challenges. When not coding, I enjoy exploring puzzles, brainstorming AI innovations, and building tools that make a difference.
 
 Feel free to explore my repositories and projects. Let's build something amazing together! 🚀
 
