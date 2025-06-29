@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile!👋
 
-Hi there! I'm Ibrahim Hammoud, a passionate and experienced Full Stack Developer with a strong focus on creating scalable and efficient web applications. My journey in software development has equipped me with a diverse skill set, from building robust back-end systems to crafting intuitive user interfaces.
+Hi, I’m Ibrahim Hammoud — a Full Stack & AI Engineer based in Berlin, passionate about building intelligent, user-centered applications that bridge software engineering and AI innovation.
 
 🌟 About Me
 
