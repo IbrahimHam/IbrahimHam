@@ -5,12 +5,14 @@ Hi, I’m Ibrahim Hammoud — a Full Stack & AI Engineer based in Berlin, passio
 🌟 About Me
 
 - 🌍 Berlin-based developer with a strong foundation in full stack web development and expanding expertise in AI & machine learning
-- 🤖 Recently completed immersive Data Science & AI training, working on projects involving large language models, retrieval-augmented generation (RAG), and emotion-aware dialogue systems
+- 🎓 Currently a Teacher Assistant at neuefische/Spiced Academy, supporting students in their Data Science & AI journey
+- 🤖 Completed immersive Data Science & AI training, working on projects involving large language models, retrieval-augmented generation (RAG), and emotion-aware dialogue systems
 - 💻 Former Full Stack Developer at Teelaunch, where I designed APIs, optimized databases, and built interactive front-end experiences with React
 - 🚀 Currently building AI-powered applications using modern tools like LangChain, FAISS, HuggingFace, and GenAI APIs
 
 💼 Experience Highlights
 
+- Assisted students in mastering machine learning, deep learning, and modern AI workflows as a teaching assistant
 - Developed scalable RESTful APIs with PHP (Laravel) and Node.js, documented with Swagger
 - Built dynamic front-end applications with React, Tailwind CSS, and optimized code for maintainability
 - Integrated AI models and built emotion/sarcasm detection for conversational chatbots
