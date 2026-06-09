@@ -8,7 +8,7 @@ On the side, I build things — mostly AI-powered tools and web projects. Curren
  
 ## 🛠️ What I work with
  
-`Python` `JavaScript` `React` `Node.js` `Anthropic API` `LangChain` `PostgreSQL` `MongoDB`
+`Python` `JavaScript` `React` `Node.js` `Php` `Anthropic API` `LangChain` `PostgreSQL` `MongoDB`
  
 ---
  
